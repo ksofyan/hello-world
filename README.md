@@ -1,7 +1,3 @@
 # hello-world
-just another beginner repository
-hi all
-im new and clueless about this shit
-please help! 
 
-ok bye 
+I am an aspiring React Native developer I am currently learning functional and object-oriented programming because I strive to have a deep fundamental understanding of Javascript. I hope that by the end of February I am able to start learning React and Node! Fingers crossed. I want to beable to get a job by the summer of 2018 asa professional front-end developer, capable of coding and learning different technologies on the fly. I am focused on putting myself outh there and realizing my dreams by being a teaching assistant for Girl Develop It, studying everyday (such as Colt Steele's Web Developer bootcamp, the countless books I've downloaded on Javascript, as well as Youtube and udemy courses) and blogging about my learning journey utilizing the #100DaysofCode challenge on Twitter.
